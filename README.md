@@ -44,3 +44,5 @@
 
 ## My experience 
 
+## 🎵 Listening on Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=manuelhdezlabra&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
