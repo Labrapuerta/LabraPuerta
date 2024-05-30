@@ -37,5 +37,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matblab" alt="Matlab" width="40" height="40"/>&nbsp;
 </div>
 
+
+## 🔥 My stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LabraPuerta&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+
+
 ## My experience 
 
