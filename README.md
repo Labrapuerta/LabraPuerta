@@ -1,27 +1,41 @@
 [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd6Mm9idHhuMHplaDlsZjlsaDI5MjlqM3J3bGVkY3Y4bGtxc2Y5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DN9VvpNWEzQpFu0/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh3bjM3b3NodjhkOTl2bWkybTJqdGR6aHRleWg5em16ZzJybnJiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="200"/>
 </div>
 
-### Hi there 👋
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/jmhlabra/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoSize=auto&label=%20">
+  </a>
+  <a href="https://www.kaggle.com/manueldlabra">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-blue?style=social&logo=kaggle&logoSize=auto&label=%20">
+  </a>
+  <a href="https://leetcode.com/u/ManuelLabra/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/leetcode-white?style=flat&logo=leetcode&logoSize=auto&label=%20">
+  </a>
+</div>
+<h1 id="Heythere" align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### :hammer_and_wrench: Languages and Tools :
+## :man_technologist: About Me:
+
+## :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Tensorflow" alt="tf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matblab" alt="Matlab" width="40" height="40"/>&nbsp;
+</div>
 
 ## My experience 
 
-
-<!--
-**Labrapuerta/LabraPuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
