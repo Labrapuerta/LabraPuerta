@@ -1,7 +1,7 @@
 [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd6Mm9idHhuMHplaDlsZjlsaDI5MjlqM3J3bGVkY3Y4bGtxc2Y5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DN9VvpNWEzQpFu0/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd6Mm9idHhuMHplaDlsZjlsaDI5MjlqM3J3bGVkY3Y4bGtxc2Y5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DN9VvpNWEzQpFu0/giphy.gif" width="200"/>
 </div>
 
 ### Hi there 👋
