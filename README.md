@@ -20,7 +20,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## :man_technologist: About Me:
+## :man_technologist: About Me: 
+- Currently learning on [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
