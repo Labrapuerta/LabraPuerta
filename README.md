@@ -19,6 +19,7 @@
 </h1>
 
 ## :man_technologist: About Me: 
+- You can view my resume [here](https://github.com/Labrapuerta/resume).
 - Currently learning on [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 ## :hammer_and_wrench: Languages and Tools :
