@@ -1,8 +1,8 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh3bjM3b3NodjhkOTl2bWkybTJqdGR6aHRleWg5em16ZzJybnJiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="200"/>
-</div>
+## <h2> Hi, I'm Manuel Labra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/l0K4kXnBEbgmbsyg8/giphy.gif?cid=ecf05e47f4nzkrjjr3lwj1cj6mofc6u9ao8ap81r8rg89og4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+<p><em>Biomedical Engineer from  <a href="http://www.unb.br">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="60"></br>
 
-<div id="badges" align = "center">
+<div id="badges" align = "left">
   <a href="https://www.linkedin.com/in/jmhlabra/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoSize=auto&label=%20">
   </a>
@@ -12,14 +12,13 @@
   <a href="https://leetcode.com/u/ManuelLabra/">
   <img alt="Static Badge" src="https://img.shields.io/badge/leetcode-white?style=flat&logo=leetcode&logoSize=auto&label=%20">
   </a>
+  <a href="https://github.com/Labrapuerta">
+  <img alt="Static Badge" src="https://img.shields.io/github/followers/Labrapuerta?label=follow&style=social">
+  </a>
 </div>
-<h1 id="Heythere" align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-## :man_technologist: About Me: 
-I am a recent graduate in Biomedical Engineering with a passion for research discovered during my bachelor's studies. My primary interests lie in deep learning and bioinformatics, particularly their applications in molecule generation and neurosciences 🤠. Currently, I am self-learning deep learning, bioinformatics, and related fields while preparing for my master's program. I am dedicated to expanding my knowledge and skills in these areas, continuously working on personal projects and contributing to the community.
+
+I am a recent graduate in Biomedical Engineering with a passion for research, discovered during my bachelor's studies. My primary interests lie in deep learning and bioinformatics, particularly their applications in molecule generation and neurosciences 🤠. Currently, I am self-learning deep learning, bioinformatics, and related fields while preparing for my master's program. I am dedicated to expanding my knowledge and skills in these areas, continuously working on personal projects and contributing to the community.
 - You can view my resume [here](https://github.com/Labrapuerta/resume).
 - Im currently working on implementing ML and deep learning algorithms from scratch, you can check the portfolio [ML from scratch](https://github.com/Labrapuerta/ML-from-scratch). 
 - Currently learning on [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
