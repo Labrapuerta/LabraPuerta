@@ -1,6 +1,6 @@
 ## <h2> Hi, I'm Manuel Labra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/l0K4kXnBEbgmbsyg8/giphy.gif?cid=ecf05e47f4nzkrjjr3lwj1cj6mofc6u9ao8ap81r8rg89og4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-<p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="60"></br>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhOGY4Zzk1NHBnOTFmM3YzOGRxMjVtaXFmMnN3ZWlkNXhsMHpydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="230">
+<p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="80"></br>
 
 <div id="badges" align = "left">
   <a href="https://www.linkedin.com/in/jmhlabra/">
