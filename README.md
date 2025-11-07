@@ -20,7 +20,7 @@
 
 
 
-I am a recent graduate in Biomedical Engineering with a passion for research, discovered during my bachelor's studies. My primary interests lie in deep learning and bioinformatics, particularly their applications in molecule generation and neurosciences 🤠. Currently, I am self-learning deep learning, bioinformatics, and related fields while preparing for my master's program. I am dedicated to expanding my knowledge and skills in these areas, continuously working on personal projects and contributing to the community.
+I am a masters student with a passion for research, discovered during my bachelor's studies. My primary interests lie in deep learning and bioinformatics, particularly their applications in molecule generation and neurosciences 🤠. Currently, I am self-learning deep learning, bioinformatics, maths and related fields while doing my master's program. I am dedicated to expanding my knowledge and skills in these areas, continuously working on personal projects and contributing to the community.
 - You can view my resume [here](https://github.com/Labrapuerta/resume).
 - Im currently working on implementing ML and deep learning algorithms from scratch, you can check the portfolio [ML from scratch](https://github.com/Labrapuerta/ML-from-scratch). 
 - Currently learning on [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
