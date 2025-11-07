@@ -1,7 +1,4 @@
 ## <h2> Hi, I'm Manuel Labra! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhOGY4Zzk1NHBnOTFmM3YzOGRxMjVtaXFmMnN3ZWlkNXhsMHpydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="230">
-<p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="80"></br>
-
 <div id="badges" align = "left">
   <a href="https://www.linkedin.com/in/jmhlabra/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoSize=auto&label=%20">
@@ -16,6 +13,11 @@
   <img alt="Static Badge" src="https://img.shields.io/github/followers/Labrapuerta?label=follow&style=social">
   </a>
 </div>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhOGY4Zzk1NHBnOTFmM3YzOGRxMjVtaXFmMnN3ZWlkNXhsMHpydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="230">
+<p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="80"></br>
+<p><em>Currently studying Interuniversity MSc in Bioinformatics for Health Sciences at <a href="https://www.upf.edu/">UPF</a> and <a href="https://web.ub.edu/es/">University of Barcelona</a></br>
+
+
 
 
 I am a recent graduate in Biomedical Engineering with a passion for research, discovered during my bachelor's studies. My primary interests lie in deep learning and bioinformatics, particularly their applications in molecule generation and neurosciences 🤠. Currently, I am self-learning deep learning, bioinformatics, and related fields while preparing for my master's program. I am dedicated to expanding my knowledge and skills in these areas, continuously working on personal projects and contributing to the community.
@@ -51,5 +53,3 @@ I am a recent graduate in Biomedical Engineering with a passion for research, di
 
 ## My experience 
 
-## 🎵 Listening on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=manuelhdezlabra&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
