@@ -14,7 +14,7 @@
   </a>
 </div>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhOGY4Zzk1NHBnOTFmM3YzOGRxMjVtaXFmMnN3ZWlkNXhsMHpydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="230">
-<p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="80"></br>
+<p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="50" style="vertical-align: middle;"></br>
 <p><em>Currently studying Interuniversity MSc in Bioinformatics for Health Sciences at <a href="https://www.upf.edu/">UPF</a> and <a href="https://web.ub.edu/es/">University of Barcelona</a></br>
 
 
