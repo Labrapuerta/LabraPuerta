@@ -17,40 +17,89 @@
 <p><em>Biomedical Engineer from  <a href="https://tec.mx/es">Tec de Monterrey (ITESM)</a><img src="https://media.giphy.com/media/YaSkY6g9dVechbb6qo/giphy.gif" width="50" style="vertical-align: middle;"></br>
 <p><em>Currently studying Interuniversity MSc in Bioinformatics for Health Sciences at <a href="https://www.upf.edu/"> Universitat Pompeu Fabra (UPF)</a> and <a href="https://web.ub.edu/es/">University of Barcelona (UB)</a></br>
 
+My main interests lie in **deep learning and bioinformatics**, particularly in:
+- Biomolecular design
+- Protein modeling
+- Computational methods for biological systems
+- Applications of AI in neuroscience
 
+I am especially interested in combining **machine learning with mathematically grounded and efficient computational methods**.
 
+Currently, I focus on:
+- Implementing machine learning algorithms from scratch
+- Building low-level systems for deep learning (C++/CUDA)
+- Exploring generative models for biomolecules
 
-I am a masters student with a passion for research, discovered during my bachelor's studies. My primary interests lie in deep learning and bioinformatics, particularly their applications in molecule generation and neurosciences 🤠. Currently, I am self-learning deep learning, bioinformatics, maths and related fields while doing my master's program. I am dedicated to expanding my knowledge and skills in these areas, continuously working on personal projects and contributing to the community.
-- You can view my resume [here](https://github.com/Labrapuerta/resume).
-- Im currently working on implementing ML and deep learning algorithms from scratch, you can check the portfolio [ML from scratch](https://github.com/Labrapuerta/ML-from-scratch). [A bit paused while focusing on low level programming]
-- I'm working actively in [Molgrad](https://github.com/Labrapuerta/MolGrad), it is my own tensorflow implementation ussing C++ and CUDA.
-- Currently learning on [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+---
+## Resume
+- [View my CV](https://github.com/Labrapuerta/resume)
 
-## :hammer_and_wrench: Languages and Tools :
+---
+
+## Featured Projects
+
+- [MolGrad](https://github.com/Labrapuerta/MolGrad)  
+  TensorFlow-like deep learning framework built in **C++ and CUDA**
+
+- [ML from Scratch](https://github.com/Labrapuerta/ML-from-scratch)  
+  Implementation of core ML/DL algorithms from first principles
+
+- [Graph Bind]()   
+  Protein binding site predictor from structure graphs using an EGNN + Evoformer-style architecture. Pytorch Geometric Based. You can see the Hugging face model [ProteinBindingGNN (44M Parameters)](https://huggingface.co/ManuelLabra/GraphBindUwU)
+
+- [Cycle GAN for image translation](https://github.com/Labrapuerta/CycleGAN-for-Image-Translation)     
+  CycleGAN for unpaired image-to-image translation in histopathology 
+---
+## Languages and Tools :
+
+**Languages**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tf" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Torch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="pd" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="np" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="SkLearn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matblab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+
+</div>
+
+**Machine Learning**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Torch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="SkLearn" width="40" height="40"/>&nbsp;
 </div>
 
 
-## 🔥 My stats
+**Data & Scientific Computing**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="pd" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="np" width="40" height="40"/>&nbsp;
+  
+</div>  
+
+**Tools & Infrastructure**
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+</div>
+
+---
+## Research Interests
+
+- Protein design using deep learning
+- Generative models for biomolecules (diffusion, transformers)
+- Structure-function relationships
+- Efficient and scalable ML systems for biology
+- Bridging physics-based modeling and AI
+---
+
+## My stats
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LabraPuerta&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
-
-## My experience 
 
