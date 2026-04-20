@@ -44,7 +44,7 @@ Currently, I focus on:
 - [ML from Scratch](https://github.com/Labrapuerta/ML-from-scratch)  
   Implementation of core ML/DL algorithms from first principles
 
-- [Graph Bind]()   
+- [Graph Bind](https://github.com/Labrapuerta/GraphBind)   
   Protein binding site predictor from structure graphs using an EGNN + Evoformer-style architecture. Pytorch Geometric Based. You can see the Hugging face model [ProteinBindingGNN (44M Parameters)](https://huggingface.co/ManuelLabra/GraphBindUwU)
 
 - [Cycle GAN for image translation](https://github.com/Labrapuerta/CycleGAN-for-Image-Translation)     
